@@ -1,2 +1,2 @@
 # Yoshiba-Casino
-The decentralized casino
+The decentralized blockchain casino
